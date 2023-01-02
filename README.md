@@ -5,7 +5,7 @@ The mobile application is connected to the Terra’s api to collect data from we
 
 Also builded a camputer vision system to capture the infant mouvement to prevent the infants from rolling over on their stomach while sleeping, the thing that can increase the chances of getting a Sudden Infant Death Syndrome (SIDS).
 
-![alt text](https://github.com/younes-code/Mahdassets/images/mahd1.jpg)
+![alt text](https://github.com/younes-code/Mahdassets/images/mahd1.jpeg)
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
