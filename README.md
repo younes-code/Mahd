@@ -7,7 +7,7 @@ Also builded a camputer vision system to capture the infant mouvement to prevent
 
 ![alt text](https://github.com/younes-code/Mahd/assets/images/mahd1.jpg?raw=true)
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/younes-code/Mahd/assets/images/mahd2.jpg?raw=true)
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
